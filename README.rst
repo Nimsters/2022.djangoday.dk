@@ -1,7 +1,9 @@
-Django Day Copenhagen 2021 website
+Django Day Copenhagen 2022 website
 ==================================
 
-Live version: https://2021.djangoday.dk
+WIP: Until the event is announced, this is where we can work on the new website
+
+Live version: https://2022.djangoday.dk
 
 
 Local development
