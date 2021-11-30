@@ -7,6 +7,8 @@ img_name: "vitaliy.jpeg"
 remote: false
 stage: true
 twitter: ""
+published: false
+
 # github: https://github.com/vitalik
 description: "Django Ninja is a fresh and growing framework for building REST APIs."
 # youtube_id: "zAKcwo5Cyw8"

@@ -1,6 +1,6 @@
 ---
 title: "Call for Proposals"
-date: "2021-07-07"
+date: "2022-11-29"
 ---
 
 Djangonauts from in and around Denmark are meeting up for the third edition of Django Day, to be held September 24th 2021.
@@ -40,7 +40,7 @@ We are looking for:
 
 ## Deadline 🔥
 
-Submit before ~~August 15th 2021 23:59:59 UTC+2~~ **August 31st 2021 23:59:59 UTC+2**. Program will be announced on September 1st.
+Submit before (date TBA). Program will be announced on (date TBA).
 
 
 ## Bonus 🎁
