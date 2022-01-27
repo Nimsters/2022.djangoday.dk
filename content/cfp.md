@@ -1,15 +1,15 @@
 ---
 title: "Call for Proposals"
-date: "2022-11-29"
+date: "2022-01-27"
 ---
 
-Djangonauts from in and around Denmark are meeting up for the third edition of Django Day, to be held September 24th 2021.
+Djangonauts from in and around Denmark are meeting up for the third edition of Django Day, to be held April 8th 2022.
 It will be a full day of talks, followed by an evening of social events.
 
 Come and meet your local and excellent community and share with them. Tell us about your idea and your contribution to make
 this a great day.
 
-The event will accommodate ~150 people.
+The event will accommodate ~50 people physically and be streamed live and recorded for additionally larger audiences. If the ticket sales allow us, we will relocate to a larger physical venue.
 
 First time doing a talk? We want you to submit! It is very understandable and encouraged to ask questions when preparing your
 talk, please don’t hesitate to write cfp@django-denmark.org.
@@ -40,7 +40,7 @@ We are looking for:
 
 ## Deadline 🔥
 
-Submit before (date TBA). Program will be announced on (date TBA).
+Submit before **March 1st 2022 23:59:59 UTC+2**. The final program will be announced on April 1st (perhaps with a joke).
 
 
 ## Bonus 🎁
