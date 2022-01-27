@@ -6,59 +6,20 @@ draft: false
 
 ---
 
-# Coming up!
-
-Good news everyone! We've identified the [Venue](/venue/) (Onkel Danny's Plads / Uncle Danny's Plaza) and the date (April 8th).
-
-# You Coming?
-
-Please register your intention to participate here:
-
-<!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://django-denmark.us5.list-manage.com/subscribe/post?u=2358dabe7f2489221f9f879db&amp;id=7804c5323c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address</span>
-</label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2358dabe7f2489221f9f879db_7804c5323c" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Register" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
-
-**REMARK:** Your intention is _most_ valuable to us and ensure we can plan for the right size venue, food delivery, after party etc. This registration of intention is not for sending you emails with random content! It is ONLY to tell you about the next Django Day event! THANK YOU!
-
-ALSO, if you have a friend who is also planning to attend please tell that person to show their intent. THANKS!
-
 
 # Latest updates
 
-* Django Day 2021 was postponed for 2022
-* Deadline for submitting talks: TBA 🔥
+* Good news everyone! We've identified the [Venue](/venue/) (Onkel Danny's Plads / Uncle Danny's Plaza) and the date (April 8th).
+* Deadline for submitting talks: March 1st 🔥
+* Early Bird discount until: March 1st 🔥
 * Program will be announced as talks are accepted ⏳
 * Website up and running ✅
-* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span> <span class="badge badge-pill badge-info">FREE STREAMING</span> <span class="badge badge-pill badge-info">VENUE</span> <span class="badge badge-pill badge-info">CORPORATE SUPPORT</span>
+* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span> <span class="badge badge-pill badge-info">EARLY BIRD</span> <span class="badge badge-pill badge-info">CORPORATE SUPPORT</span>  <span class="badge badge-pill badge-info">FREE STREAMING</span> 
 * [Call for Participation](/cfp/) <span class="badge badge-pill badge-success">OPEN</span>
 * Looking for Django Day 2020 videos? [Find them here](https://2020.djangoday.dk/#program)
 
 Djangonauts from in and around Denmark are meeting up for the third edition of
-Django Day, to be held on (dates TBA 2022). It will be a full day of talks,
+Django Day, to be held on April 8th, 2022. It will be a full day of talks,
 either to be experienced **online -or- at our venue**.
 
 Come and meet your local and excellent community and share with them.
