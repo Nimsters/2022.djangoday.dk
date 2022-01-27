@@ -1,16 +1,16 @@
 ---
 title: "Welcome - Django Day Copenhagen 2022"
 date: "2021-11-29"
-description: "Djangonauts from in and around Denmark are meeting up for the second edition of Django Day Copenhagen, TBA"
+description: "Djangonauts from in and around Denmark are meeting up for the second edition of Django Day Copenhagen, April 8th 2022"
 draft: false
 
 ---
 
-# Standby...
+# Coming up!
 
-We are looking to secure a venue and will announce the dates soon.
+Good news everyone! We've identified the [Venue](/venue/) (Onkel Danny's Plads / Uncle Danny's Plaza) and the date (April 8th).
 
-## Are you coming in 2022?
+# You Coming?
 
 Please register your intention to participate here:
 
