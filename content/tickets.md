@@ -1,6 +1,6 @@
 ---
 title: "Tickets"
-date: 2021-07-07
+date: 2022-01-29
 description: Ticket information for Django Day Copenhagen 2022
 draft: false
 ---

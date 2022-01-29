@@ -1,7 +1,7 @@
 ---
 title: "How to distribute Django projects with Ubuntu Snap"
 date: 2021-08-04T17:10:00+02:00
-talk_date: 2021-09-24T10:00:00+02:00
+talk_date: 2022-04-08T10:00:00+02:00
 talk_by: "Johannes Wilm"
 img_name: "johannes.png"
 remote: false
