@@ -10,7 +10,7 @@ draft: false
 
 * Early bird tickets: Tuesday 1st March 23:59 UTC+1
 * Venue tickets: Friday April 1st 23:59 UTC+2
-* Free streaming: No deadline
+* Free streaming: No deadline, registration TBA
 
 This event can sell out fast, as the venue is small and we cannot guarantee that we'll find a different venue in case of high demand.
 
@@ -59,16 +59,7 @@ After ordering a Corporate Supporter package, you will be sent a manual email wi
 
 ## Streaming
 
-**Streaming support ticket** includes:
-
-* Live streaming
-* Access to our very own Zulip social space
-
-<a class="btn btn-lg btn-primary" href="https://djangodenmark.ticketbutler.io/en/e/django-day-2022/" target="_blank">Streaming support - DKK 50</a>
-
-**Free streaming**: The event will be free to stream (more information to come), but please register to receive the full information, including how to join our chat platform:
-
-<a class="btn btn-lg btn-primary" href="https://djangodenmark.ticketbutler.io/en/e/django-day-2022/" target="_blank">Free streaming - DKK 0</a>
+Streaming free and supporter tickets TBA.
 
 
 ## Student / concession tickets
