@@ -1,7 +1,7 @@
 ---
 title: "Make the most of Django"
 date: 2021-08-04T17:10:00+02:00
-talk_date: 2021-09-24T09:00:00+02:00
+talk_date: 2022-04-08T09:00:00+02:00
 talk_by: "Paolo Melchiorre"
 img_name: "paolo.jpeg"
 remote: false
