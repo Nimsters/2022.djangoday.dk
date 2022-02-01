@@ -11,7 +11,7 @@ description: "Talk will be announced soon"
 # youtube_id: "zAKcwo5Cyw8"
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
 # notes: "andrew.jpeg"
-published: false
+published: true
 ---
 
-This talk will be announced soon.
+We will look at how packaging the Django-based application Fidus Writer is being distributed using Canonical Snaps and how it can be used to distribute open source Django-based projects to be deployed also by less technical users.
