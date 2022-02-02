@@ -1,4 +1,3 @@
-// TODO: Replace and stop tracking
 @font-face {
   font-family: 'Source Sans Pro';
   font-style: normal;
@@ -128,24 +127,36 @@ footer
     margin: 20px;
 }
 
-a.sponsor,
-a.sponsor:hover
-{
-  display: inline-block;
-  vertical-align: middle;
-  text-decoration: none;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-}
+ul.sponsors {
+  display: flex;
+  flex-direction: row;       /* horizontal alignment of flex items
+                                    (default value; can be omitted) */
+  align-items: stretch;      /* will apply equal heights to flex items
+                                    (default value; can be omitted) */
+  height: 100%;
+  list-style: none;
+  margin: 20px 0;
+  padding: 0;
+  gap: 10px;
+  li {
+    height: 100%;
+    flex-direction: column;    /* vertical alignment of flex items */
+    justify-content: center;   /* center flex items vertically */
+    align-items: center;       /* center flex items horizontally */
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+  }
 
-a .img-sponsor {
-  margin: 20px 20px 20px 20px;
-  display: inline-block;
-  padding: 10px;
-}
-
-a .img-sponsor:hover {
-  text-decoration: none;
+  a.sponsor,
+  a.sponsor:hover
+  {
+    text-decoration: none;
+  }
+  a img {
+    display: block;
+    width: 100%;
+  }
 }
 
 .custom-navbar {
