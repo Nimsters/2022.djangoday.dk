@@ -45,6 +45,17 @@ and be drawn during the day.
 
 
 <ul class="sponsors">
+
+<li><a href="https://www.letsgofleetsystems.com/" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_letsgo_fleet.png"
+command="Fit"
+options="300x100"
+alt="LetsGo Fleet"
+class="img-sponsor"
+>}}
+</a></li>
+
 <li><a href="https://www.sonofatailor.com/" target="_blank" class="sponsor">
 {{< imgProc
 img="logo_son_of_tailor.png"
