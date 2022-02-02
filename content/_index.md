@@ -67,12 +67,12 @@ class="img-sponsor"
 </a></li>
 
 <li>
-<a href="https://www.sonofatailor.com/" target="_blank" class="sponsor">
+<a href="https://www.sdnielsen.dk/" target="_blank" class="sponsor">
 {{< imgProc
 img="sdnielsen.png"
 command="Fit"
 options="300x100"
-alt="Son of a Tailor"
+alt="SD Nielsen"
 class="img-sponsor"
 >}}
 </a>

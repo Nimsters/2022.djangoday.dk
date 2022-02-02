@@ -138,23 +138,26 @@ ul.sponsors {
   margin: 20px 0;
   padding: 0;
   gap: 10px;
+
   li {
-    height: 100%;
-    flex-direction: column;    /* vertical alignment of flex items */
+  height: 80px;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
     justify-content: center;   /* center flex items vertically */
-    align-items: center;       /* center flex items horizontally */
     border: 1px solid #ddd;
     border-radius: 10px;
     padding: 10px;
+    margin: auto auto;
   }
 
   a.sponsor,
   a.sponsor:hover
   {
     text-decoration: none;
+    display: block;
   }
   a img {
-    display: block;
     width: 100%;
   }
 }
