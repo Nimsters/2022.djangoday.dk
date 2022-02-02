@@ -43,18 +43,10 @@ and be drawn during the day.
 
 *Please get in touch about supporting the event*
 
-<br>
-<a href="https://www.sonofatailor.com/" target="_blank" class="sponsor">
-{{< imgProc
-img="logo_son_of_tailor.png"
-command="Fit"
-options="300x100"
-alt="Son of a Tailor"
-class="img-sponsor"
->}}
-</a>
 
-<a href="https://www.letsgofleetsystems.com/" target="_blank" class="sponsor">
+<ul class="sponsors">
+
+<li><a href="https://www.letsgofleetsystems.com/" target="_blank" class="sponsor">
 {{< imgProc
 img="logo_letsgo_fleet.png"
 command="Fit"
@@ -62,9 +54,31 @@ options="300x100"
 alt="LetsGo Fleet"
 class="img-sponsor"
 >}}
-</a>
+</a></li>
 
-<div style="clear: both"></div>
+<li><a href="https://www.sonofatailor.com/" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_son_of_tailor.png"
+command="Fit"
+options="300x100"
+alt="Son of a Tailor"
+class="img-sponsor"
+>}}
+</a></li>
+
+<li>
+<a href="https://www.sdnielsen.dk/" target="_blank" class="sponsor">
+{{< imgProc
+img="sdnielsen.png"
+command="Fit"
+options="300x100"
+alt="SD Nielsen"
+class="img-sponsor"
+>}}
+</a>
+</li>
+
+</ul>
 
 # Who are we?
 
