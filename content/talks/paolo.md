@@ -7,7 +7,7 @@ img_name: "paolo.jpeg"
 remote: false
 stage: true
 twitter: "pauloxnet"
-description: "Talk will be announced soon"
+description: "Take full advantage of Django while contributing to its success and that of its community."
 published: true
 
 # youtube_id: "zAKcwo5Cyw8"
