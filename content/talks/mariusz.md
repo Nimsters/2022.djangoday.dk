@@ -7,8 +7,8 @@ img_name: "mariusz.png"
 stage: true
 remote: false
 twitter: "MariuszFelisiak"
-description: "Talk will be announced soon"
-published: false
+description: "The migration framework has been a part of Django for 8 year now, however it still has powerful abilities that are not widely used and well known."
+published: true
 
 # youtube_id: "zAKcwo5Cyw8"
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
@@ -16,7 +16,7 @@ published: false
 ---
 
 The migration framework has been a part of Django since version 1.7.
-That's been 7 year now, however it still has powerful abilities that
+That's been 8 year now, however it still has powerful abilities that
 are not widely used and well known.
 
 This talk will discuss how we can use migrations' secret powers in response to
