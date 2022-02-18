@@ -56,6 +56,16 @@ class="img-sponsor"
 >}}
 </a></li>
 
+<li><a href="https://kolo.app/" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_kolo_app.png"
+command="Fit"
+options="300x100"
+alt="Kolo.app"
+class="img-sponsor"
+>}}
+</a></li>
+
 <li><a href="https://www.sonofatailor.com/" target="_blank" class="sponsor">
 {{< imgProc
 img="logo_son_of_tailor.png"
