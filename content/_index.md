@@ -13,7 +13,7 @@ draft: false
 * Deadline for submitting talks: March 1st 🔥
 * Program will be announced as talks are accepted ⏳
 * Website up and running ✅
-* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span> <span class="badge badge-pill badge-info">EARLY BIRD</span> <span class="badge badge-pill badge-info">CORPORATE SUPPORT</span>  <span class="badge badge-pill badge-info">FREE STREAMING</span> 
+* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span> <span class="badge badge-pill badge-info">CORPORATE SUPPORT</span>  <span class="badge badge-pill badge-info">FREE STREAMING</span> 
 * Early Bird discount <span class="badge badge-pill badge-warning">SOLD OUT</span>
 * [Call for Participation](/cfp/) <span class="badge badge-pill badge-success">OPEN</span>
 * Looking for Django Day 2020 videos? [Find them here](https://2020.djangoday.dk/#program)
