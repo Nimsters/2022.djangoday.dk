@@ -8,7 +8,7 @@ draft: false
 
 ## Ticket Deadlines 🔥
 
-* Early bird tickets: Tuesday 1st March 23:59 UTC+1
+* Early bird tickets: Tuesday 1st March 23:59 UTC+1 <span class="badge badge-pill badge-danger">SOLD OUT</span>
 * Venue tickets: Friday April 1st 23:59 UTC+2
 * Free streaming: No deadline, registration TBA
 
@@ -33,9 +33,7 @@ When ordering tickets, you will be asked questions about dietary preferences and
 if you want to be a member of Django Denmark, our association behind Django Day.
 All of this is with no additional costs.
 
-<a class="btn btn-lg btn-primary" href="https://djangodenmark.ticketbutler.io/en/e/django-day-2022/" target="_blank">Early bird ticket - DKK 500</a>
-
-*After March 1st, the price of a venue ticket will be DKK 750*
+<a class="btn btn-lg btn-primary" href="https://djangodenmark.ticketbutler.io/en/e/django-day-2022/" target="_blank">Individual ticket - DKK 750</a>
 
 
 ## Corporate Supporters
