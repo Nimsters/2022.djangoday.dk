@@ -8,7 +8,7 @@ remote: false
 stage: true
 twitter: ""
 published: true
-
+type: talk
 # github: https://github.com/vitalik
 description: "Django Ninja is a fresh and growing framework for building REST APIs."
 # youtube_id: "zAKcwo5Cyw8"

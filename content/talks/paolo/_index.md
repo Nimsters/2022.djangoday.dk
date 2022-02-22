@@ -4,11 +4,13 @@ date: 2021-08-04T17:10:00+02:00
 talk_date: 2022-04-08T09:00:00+02:00
 talk_by: "Paolo Melchiorre"
 img_name: "paolo.jpeg"
+layout: "single"
 remote: false
 stage: true
 twitter: "pauloxnet"
 description: "Take full advantage of Django while contributing to its success and that of its community."
 published: true
+type: "talk"
 
 # youtube_id: "zAKcwo5Cyw8"
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"

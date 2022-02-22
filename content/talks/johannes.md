@@ -12,6 +12,7 @@ description: "Exploring how to package and redistribute Django solutions with Ub
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
 # notes: "andrew.jpeg"
 published: true
+type: talk
 ---
 
 We will look at how packaging the Django-based application Fidus Writer is being distributed using

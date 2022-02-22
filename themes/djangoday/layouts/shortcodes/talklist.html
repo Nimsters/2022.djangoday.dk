@@ -1,5 +1,7 @@
 <div style="clear: both"></div>
-{{ range sort (where (where site.RegularPages.ByDate "Section" "talks") "published" "!=" "false") ".Params.talk_date" "asc" }}
+{{ $talks := (where (where (.Site.GetPage "/talks").Pages.ByDate "Params.type" "talk") "published" "!=" "false") }}
+
+{{ range sort $talks ".Params.talk_date" "asc" }}
 
 {{ if .Params.venue_event }}
 
@@ -47,7 +49,7 @@
 
 {{ end }}
 
-{{ range (seq (sub 9 (len (where (where site.RegularPages.ByDate "Section" "talks") "published" "!=" "false")))) }}
+{{ range (seq (sub 9 (len ($talks)))) }}
 
   {{- $original := ((site.GetPage "/talks").Resources.GetMatch "pony.png") -}}
   {{- $new := "" -}}
