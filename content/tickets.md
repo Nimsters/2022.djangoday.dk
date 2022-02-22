@@ -8,9 +8,9 @@ draft: false
 
 ## Ticket Deadlines 🔥
 
-* Early bird tickets: Tuesday 1st March 23:59 UTC+1 <span class="badge badge-pill badge-danger">SOLD OUT</span>
 * Venue tickets: Friday April 1st 23:59 UTC+2
 * Free streaming: No deadline, registration TBA
+* Early bird: Tuesday 1st March 23:59 UTC+1 <span class="badge badge-pill badge-warning">SOLD OUT</span>
 
 This event can sell out fast, as the venue is small and we cannot guarantee that we'll find a different venue in case of high demand.
 
