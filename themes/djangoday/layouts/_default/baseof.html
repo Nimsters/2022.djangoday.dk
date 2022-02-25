@@ -70,18 +70,18 @@
 
 </head>
 
-<body>
+<body class="{{ block "bodyclass" . }}{{ end }}">
 
 <div class="djangoday-logo">
     <div class="container">
     <div>
-      <a href="/">
+      <a href="/" class="djangoday-logo-link">
         <img src="/djangocph.svg" style="transform: rotate(-2deg); width: 250px; margin-top: -10px; float: right; display: block; background-color: #fff; right: 0" class="rounded-circle">
       </a>
       <div class="main-update">
         Django Day Copenhagen 2022<br>
         April 8th, Onkel Danny's Plads<br>
-        📚️ 💺 💺 💺 💺 💺 📚
+        <div class="emojis">📚️ 💺 💺 💺 💺 💺 📚</div>
       </div>
     </div>
     </div>
@@ -94,7 +94,7 @@
       {{ block "main" . }}{{ end }}
     </article>
     
-   <img src="/people_pony_books.svg" class="img-fluid" alt="Django Day flying pony and books illustration by Sara - https://aspigirlcodes.github.io/" />
+   <img src="/people_pony_books.svg" class="img-fluid" alt="Django Day flying pony and books illustration by Sara - https://aspigirlcodes.github.io/" id="footer-pony" />
 
   </div>
 
