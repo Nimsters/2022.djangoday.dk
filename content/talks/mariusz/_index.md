@@ -4,12 +4,13 @@ date: 2021-08-04T17:10:00+02:00
 talk_date: 2022-04-08T10:00:00+02:00
 talk_by: "Mariusz Felisiak"
 img_name: "mariusz.png"
+layout: "single"
 stage: true
 remote: false
 twitter: "MariuszFelisiak"
 description: "The migration framework has been a part of Django for 8 year now, however it still has powerful abilities that are not widely used and well known."
 published: true
-type: talk
+type: "talk"
 # youtube_id: "zAKcwo5Cyw8"
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
 # notes: "andrew.jpeg"
