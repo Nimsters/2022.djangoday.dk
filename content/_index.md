@@ -77,6 +77,18 @@ class="img-sponsor"
 </a></li>
 
 <li>
+<a href="http://foxleytalent.com/" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_foxley.png"
+command="Fit"
+options="300x100"
+alt="Foxley Talent"
+class="img-sponsor"
+>}}
+</a>
+</li>
+
+<li>
 <a href="https://www.sdnielsen.dk/" target="_blank" class="sponsor">
 {{< imgProc
 img="sdnielsen.png"
