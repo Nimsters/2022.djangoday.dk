@@ -1,7 +1,8 @@
 ---
 title: "Introducing Django Ninja"
 date: 2021-08-04T17:10:00+02:00
-talk_date: 2022-04-08T15:00:00+02:00
+# talk_date: 2022-04-08T15:00:00+02:00
+talk_date: 2022-04-08T09:53:00+02:00
 talk_by: "Vitaliy Kucheryaviy"
 img_name: "vitaliy.jpeg"
 remote: false
