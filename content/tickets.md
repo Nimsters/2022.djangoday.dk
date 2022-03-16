@@ -12,7 +12,7 @@ draft: false
 * Venue tickets: <s>Friday April 1st 23:59 UTC+2</s> <span class="badge badge-pill badge-warning">SOLD OUT</span>
 * Early bird: <s>Tuesday 1st March 23:59 UTC+1</s> <span class="badge badge-pill badge-warning">SOLD OUT</span>
 
-This event can sell out fast, as the venue is small and we cannot guarantee that we'll find a different venue in case of high demand.
+This year's event sold out fast, as the venue is small and we sold out at a stage where we couldn't relocate. If you are interested in being on a waiting list for a venue ticket, please write info@django-denmark.org
 
 ## Streaming
 
