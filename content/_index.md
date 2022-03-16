@@ -9,13 +9,13 @@ draft: false
 
 # Latest updates
 
-* Good news everyone! We've identified the [Venue](/venue/) (Onkel Danny's Plads / Uncle Danny's Plaza) and the date (April 8th).
-    <!-- * Deadline for submitting talks: March 1st 🔥 -->
+* [Venue](/venue/) (Onkel Danny's Plads / Uncle Danny's Plaza) and date (April 8th) ✅
 * [Program](#program) announced ✅
     <!-- * Website up and running ✅ -->
-* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span> <span class="badge badge-pill badge-info">CORPORATE SUPPORT</span>  <span class="badge badge-pill badge-info">FREE STREAMING</span> 
+* [Ticket sales](/tickets/) <span class="badge badge-pill badge-info">FREE STREAMING</span> 
+* Venue tickets <span class="badge badge-pill badge-warning">SOLD OUT</span>
 * Early Bird discount <span class="badge badge-pill badge-warning">SOLD OUT</span>
-* [Call for Participation](/cfp/) <span class="badge badge-pill badge-success">OPEN</span>
+* [Call for Participation](/cfp/) <span class="badge badge-pill badge-warning">CLOSED</span>
 * Looking for Django Day 2020 videos? [Find them here](https://2020.djangoday.dk/#program)
 
 Djangonauts from in and around Denmark are meeting up for the third edition of
