@@ -46,6 +46,16 @@ and be drawn during the day.
 
 <ul class="sponsors">
 
+<li><a href="https://www.magenta.dk/" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_magenta.png"
+command="Fit"
+options="300x100"
+alt="Magenta"
+class="img-sponsor"
+>}}
+</a></li>
+
 <li><a href="https://www.letsgofleetsystems.com/" target="_blank" class="sponsor">
 {{< imgProc
 img="logo_letsgo_fleet.png"
