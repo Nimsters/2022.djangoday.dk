@@ -76,6 +76,16 @@ class="img-sponsor"
 >}}
 </a></li>
 
+<li><a href="https://www.divio.com/" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_divio.png"
+command="Fit"
+options="300x100"
+alt="Divio"
+class="img-sponsor"
+>}}
+</a></li>
+
 <li><a href="https://www.sonofatailor.com/" target="_blank" class="sponsor">
 {{< imgProc
 img="logo_son_of_tailor.png"
