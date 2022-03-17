@@ -13,7 +13,13 @@
 {{ else }}
   <a href="{{ .Permalink }}">
 
-  {{- $original := ((site.GetPage "/talks").Resources.GetMatch (printf "*%s*" .Params.img_name)) -}}
+  {{- $original := "" }}
+  {{ if (eq .Params.img_name "") }}
+    {{- $original = ((site.GetPage "/talks").Resources.GetMatch "pony.png") -}}
+  {{ else }}
+    {{- $original = ((site.GetPage "/talks").Resources.GetMatch (printf "*%s*" .Params.img_name)) -}}
+  {{ end }}
+
   {{- $new := "" -}}
   {{- $new = $original.Fill "150x150" -}}
 
@@ -25,6 +31,7 @@
   </h2>
   </a>
 
+  {{ if .Params.talk_by }}
   <h5>{{ .Params.talk_by }}
   {{ if .Params.remote }}
   - remote 🌍
@@ -38,6 +45,7 @@
   </a>
   {{ end }}
   </h5>
+  {{ end }}
 
   {{ end }}
 
@@ -47,8 +55,11 @@
   <div style="clear: both"></div>
 {{ end }}
 
+  <div style="clear: both"></div>
+
 {{ end }}
 
+<!--
 {{ range (seq (sub 9 (len ($talks)))) }}
 
   {{- $original := ((site.GetPage "/talks").Resources.GetMatch "pony.png") -}}
@@ -62,3 +73,4 @@
   <p>Are you interested? We would love you hear from you: <a href="/cfp/">Read more about sending in your proposal</a> (deadline: March 1st)</p>
   <div style="clear: both"></div>
 {{ end }}
+-->
