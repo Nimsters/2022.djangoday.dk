@@ -46,6 +46,8 @@ All of this is with no additional costs.
 
 ## Corporate Supporters
 
+If you have been given a voucher code from your employer, please [sign up here](https://djangodenmark.ticketbutler.io/en/e/django-day-2022/), choosing **Corporate Supporter Access**.
+
 Become a Corporate Supporter of Django Denmark:
 
 * Get tickets to the annual Django Day
