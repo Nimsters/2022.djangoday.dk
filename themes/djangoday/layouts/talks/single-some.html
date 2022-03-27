@@ -3,7 +3,7 @@
 
 {{- $original := ((site.GetPage "/talks").Resources.GetMatch (printf "*%s*" .CurrentSection.Params.img_name)) -}}
 {{- $new := "" -}}
-{{- $new = $original.Fill "400x400" -}}
+{{- $new = $original.Fill "400x400 Center" -}}
 
 <img src="{{ $new.Permalink }}" alt="Speaker" class="img-speaker float-right" />
 
