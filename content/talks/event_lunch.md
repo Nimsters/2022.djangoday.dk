@@ -13,3 +13,5 @@ published: true
 type: "talk"
 
 ---
+
+Lunch is served by [Tekno Eatery](https://www.teknoeatery.dk/)

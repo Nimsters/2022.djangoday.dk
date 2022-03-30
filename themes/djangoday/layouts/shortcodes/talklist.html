@@ -26,7 +26,7 @@
   <img src="{{ $new.Permalink }}" alt="Speaker" class="img-speaker float-right" />
 
   <h2 class="no-link-styling">
-  <!-- <span class="talktime">{{ dateFormat "15:04" .Params.talk_date }}</span> -->
+  <span class="talktime">{{ dateFormat "15:04" .Params.talk_date }}</span>
   {{ .Title }}
   </h2>
   </a>
@@ -51,6 +51,10 @@
 
 {{ if .Content }}
   {{ .Content | safeHTML | truncate 200 }}
+{{ end }}
+
+
+{{ if (or .Params.stage .Params.venue) }}
   <p><a href="{{ .Permalink }}" style="white-space: nowrap">Read more »</a></p>
   <div style="clear: both"></div>
 {{ end }}
