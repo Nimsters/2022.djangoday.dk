@@ -51,6 +51,10 @@
 
 {{ if .Content }}
   {{ .Content | safeHTML | truncate 200 }}
+{{ end }}
+
+
+{{ if (or .Params.stage .Params.venue) }}
   <p><a href="{{ .Permalink }}" style="white-space: nowrap">Read more »</a></p>
   <div style="clear: both"></div>
 {{ end }}
