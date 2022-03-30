@@ -1,7 +1,7 @@
 ---
 title: "Closing words 🌇"
-date: 2021-04-08T18:00:00+02:00
-talk_date: 2022-04-08T18:00:00+02:00
+date: 2021-04-08T17:45:00+02:00
+talk_date: 2022-04-08T17:45:00+02:00
 talk_by: ""
 img_name: ""
 layout: ""
