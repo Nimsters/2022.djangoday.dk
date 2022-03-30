@@ -8,7 +8,7 @@ img_name: "vitaliy.jpeg"
 remote: false
 stage: true
 twitter: ""
-published: true
+published: false
 type: "talk"
 layout: "single"
 
