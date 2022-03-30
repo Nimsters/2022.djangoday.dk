@@ -37,6 +37,8 @@ event, meaning that you won't have to miss anything. The day will end
 with a round of **lightning talks**, which can be submitted on the day of the event,
 and be drawn during the day.
 
+**UPDATE 2022-03-30** The schedule is now visible below, subject to any changes that might occur. Please refer to this very page for any changes.
+
 {{< talklist >}}
 
 
