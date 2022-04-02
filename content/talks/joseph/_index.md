@@ -1,8 +1,8 @@
 ---
 title: "Thinking in SQL with Django"
 date: 2022-03-09T17:10:00+02:00
-talk_date: 2022-04-08T15:00:00+02:00
-talk_by: "Joseph Victor Zammit"
+talk_date: 2022-04-08T13:45:00+02:00
+talk_by: "Joseph Zammit"
 img_name: "joseph.jpeg"
 remote: false
 layout: "single"
