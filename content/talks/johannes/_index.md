@@ -16,5 +16,10 @@ published: true
 type: "talk"
 ---
 
-We will look at how packaging the Django-based application Fidus Writer is being distributed using
+We will look at how packaging the Django-based application [Fidus Writer](https://www.fiduswriter.org/) is being distributed using
 Canonical Snaps and how it can be used to distribute open source Django-based projects to be deployed also by less technical users.
+
+## About Fidus Writer
+
+Fidus Writer is an Open Source online collaborative editor especially made for academics who need to use citations and/or formulas. The editor focuses on the content rather than the layout, so that with the same text, you can later on publish it in multiple ways: On a website, as a printed book, or as an ebook. In each case, you can choose from a number of layouts that are adequate for the medium of choice.
+
