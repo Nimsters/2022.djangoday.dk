@@ -24,8 +24,12 @@ This talk shows how thinking in SQL first can result in very efficient data acce
 
 And how the Django ORM provides all the tools needed for this code to be easy to read and maintain.
 
-To get more background for the talk, refer to Joseph's blog post [Retrieving related data in Django](https://www.untangled.dev/2020/11/01/django-query-m2m-data/).
+The talk is inspired by a blog post Joseph wrote a couple of years back: [Retrieving related data in Django](https://www.untangled.dev/2020/11/01/django-query-m2m-data/).
 
-## About Joseph
+### About Joseph
 
-Joseph has worked as a software engineer for over 16 years. A decade of which with Python, Django and the dynamic ecosystem around Django.
+Joseph has worked as a software engineer for 15+ years. A decade of which with Python, Django and the dynamic ecosystem around Django.
+
+### Github Repo
+
+All code and functionality discussed during the talk are at the Github repo [here](https://github.com/jvzammit/cph22). Including references.
