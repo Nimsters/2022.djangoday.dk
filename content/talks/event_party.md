@@ -13,6 +13,6 @@ published: true
 type: "talk"
 ---
 
-We'll be ending the evening with plenty of time to hang out, dance, chill and have fun!
+We'll be ending the evening at the venue with plenty of time to hang out, dance, chill and have fun!
 
-Before the party, join a group of people and find some food in the many options in Kødbyen, meanwhile we'll setup the bar and rearrange all the furniture.
+Before the party, join a group of people and find some food in the many options in Kødbyen, meanwhile we'll setup the bar and rearrange the venue's furniture into a party-like setup.
