@@ -6,6 +6,12 @@ draft: false
 
 ---
 
+**Streaming live on April 8th 2022 from 09:30 UTC+2 (Copenhagen time)**
+
+<div class="embed-responsive embed-responsive-16by9" style="margin-bottom: 20px;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mz4LvT7JHOU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 # Latest updates
 
