@@ -6,6 +6,16 @@ draft: false
 
 ---
 
+# See you in 2023 👋
+
+The tentative date for Django Day Copenhagen 2023 is **March 31st**. This will be the Friday before Easter break.
+
+# Coming up: Recordings
+
+Please stay tuned, as we will get all the recordings edited and available on each talk page...
+
+# Live stream
+
 **Streaming live on April 8th 2022 from 09:30 UTC+2 (Copenhagen time)**
 
 <div class="embed-responsive embed-responsive-16by9" style="margin-bottom: 20px;">
