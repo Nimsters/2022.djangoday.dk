@@ -10,7 +10,7 @@ layout: "single"
 stage: true
 twitter: "MHLut"
 description: "Mentors are crucial to help developers find their feet. This talk is about laying the groundwork for new developers to succeed."
-# youtube_id: "zAKcwo5Cyw8"
+youtube_id: "_T_7eeWffwQ"
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
 # notes: "andrew.jpeg"
 published: true

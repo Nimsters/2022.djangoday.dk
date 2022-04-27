@@ -9,7 +9,7 @@ layout: "single"
 stage: true
 twitter: "michjnich"
 description: "How 12 factor app helped Divio migrate over 10k Postgres instances"
-# youtube_id: "zAKcwo5Cyw8"
+youtube_id: "i4GQHpSb1Rk"
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
 # notes: "andrew.jpeg"
 published: true

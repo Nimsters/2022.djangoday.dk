@@ -9,7 +9,7 @@ layout: "single"
 stage: true
 twitter: "johanneswilm"
 description: "Exploring how to package and redistribute Django solutions with Ubuntu Snap packages"
-# youtube_id: "zAKcwo5Cyw8"
+youtube_id: "ndZlD-fDYVw"
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
 # notes: "andrew.jpeg"
 published: true

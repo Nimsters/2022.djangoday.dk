@@ -10,30 +10,21 @@ draft: false
 
 The tentative date for Django Day Copenhagen 2023 is **March 31st**. This will be the Friday before Easter break.
 
-# Coming up: Recordings
+# Recordings up 📽️
 
-Please stay tuned, as we will get all the recordings edited and available on each talk page...
-
-# Live stream
-
-**Streaming live on April 8th 2022 from 09:30 UTC+2 (Copenhagen time)**
-
-<div class="embed-responsive embed-responsive-16by9" style="margin-bottom: 20px;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mz4LvT7JHOU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+Have a look at each talk [below](#program) and you will find the recorded segment with slides and Q&A session.
 
 # Latest updates
 
 * [Venue](/venue/) (Onkel Danny's Plads / Uncle Danny's Plaza) and date (April 8th) ✅
 * [Program](#program) announced ✅
     <!-- * Website up and running ✅ -->
-* [Ticket sales](/tickets/) <span class="badge badge-pill badge-info">FREE STREAMING</span> 
-* Venue tickets <span class="badge badge-pill badge-warning">SOLD OUT</span>
-* Early Bird discount <span class="badge badge-pill badge-warning">SOLD OUT</span>
-* VENUE PARTY! We end with a party at the venue, so don't make plans for Friday night 🎉 🎉
-* [Call for Participation](/cfp/) <span class="badge badge-pill badge-warning">CLOSED</span>
-* Looking for Django Day 2020 videos? [Find them here](https://2020.djangoday.dk/#program)
+* [Ticket sales](/tickets/) <span class="badge badge-pill badge-info">FREE STREAMING</span> ✅ 
+* Venue tickets <span class="badge badge-pill badge-warning">SOLD OUT</span> ✅ 
+* Early Bird discount <span class="badge badge-pill badge-warning">SOLD OUT</span> ✅ 
+* VENUE PARTY! We end with a party at the venue, so don't make plans for Friday night 🎉 🎉 ✅ 
+* [Call for Participation](/cfp/) <span class="badge badge-pill badge-warning">CLOSED</span> ✅ 
+* Looking for Django Day 2020 videos? [Find them here](https://2020.djangoday.dk/#program) ✅ 
 
 Djangonauts from in and around Denmark are meeting up for the third edition of
 Django Day, to be held on April 8th, 2022. It will be a full day of talks,

@@ -9,7 +9,7 @@ layout: "single"
 stage: true
 twitter: "jvzammit"
 description: "Learn more about how thinking in SQL firstly can result in very efficient data access in Django."
-# youtube_id: "zAKcwo5Cyw8"
+youtube_id: "4JkghjjulvE"
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
 # notes: "andrew.jpeg"
 published: true
