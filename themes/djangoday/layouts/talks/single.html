@@ -30,7 +30,7 @@ stage 🎤
 
 {{ if .Params.youtube_id }}
 
-<h5>Watch the talk</h5>
+<h4>Watch the talk</h4>
 
 <div class="embed-responsive embed-responsive-16by9" style="margin-bottom: 20px;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -40,7 +40,7 @@ stage 🎤
 
 {{ if .Params.notes }}
 
-<h5>Notes by <a href="https://twitter.com/aspigirlcodes" target="_blank">@Sara Peeters</a></h5>
+<h4>Notes by <a href="https://twitter.com/aspigirlcodes" target="_blank">@Sara Peeters</a></h4>
 
 {{- $original2 := ((site.GetPage "/sketch-notes").Resources.GetMatch (printf "*%s*" .Params.notes)) -}}
 {{- $new2 := "" -}}

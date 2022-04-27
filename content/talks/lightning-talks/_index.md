@@ -4,12 +4,13 @@ date: 2021-04-08T20:00:00+02:00
 talk_date: 2022-04-08T17:30:00+02:00
 talk_by: "Live from Venue and remote pre-recordings"
 img_name: "pony.png"
-layout: ""
+layout: "single"
 remote: false
 stage: false
 description: "Streaming/remote 5 minute lightning talks at Django Day Copenhagen"
 type: "talk"
 published: true
+youtube_id: "lAXjc9Jk5Ho"
 ---
 
 ⚡⚡⚡ Announcing streaming/remote 5 minute lightning talks at Django Day Copenhagen ⚡⚡⚡
