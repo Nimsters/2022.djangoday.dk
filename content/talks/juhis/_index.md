@@ -9,7 +9,7 @@ layout: "single"
 stage: true
 twitter: "hamatti"
 description: "Technical tools and solutions as well as some valuable non-technical approaches to debugging Django."
-# youtube_id: "zAKcwo5Cyw8"
+youtube_id: "b_-OGJLtUQU"
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
 # notes: "andrew.jpeg"
 published: true

@@ -9,7 +9,7 @@ layout: "single"
 stage: true
 twitter: "romulojales"
 description: "Django and Wiremock: End-to-end tests made easy"
-# youtube_id: "zAKcwo5Cyw8"
+youtube_id: "Crf01fcg_OE"
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
 # notes: "andrew.jpeg"
 published: true
