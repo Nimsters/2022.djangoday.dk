@@ -8,7 +8,7 @@ draft: false
 
 # See you in 2023 👋
 
-The tentative date for Django Day Copenhagen 2023 is **March 31st**. This will be the Friday before Easter break.
+The tentative date for Django Day Copenhagen 2023 is **April 14th**. This will be the Friday before Easter break.
 
 # Recordings up 📽️
 
